@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFYRKlF8L9vtg/profile-displaybackgroundimage-shrink_350_1400/0/1687533726193?e=1697673600&v=beta&t=TcwrfmyqJLf3cS23MHfDyTj_56qvblO_1ZZDI1r-W0E)](https://GayasuddinMohd.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1697673600&v=beta&t=o7E0XB92iIv5rPvO-ZW-EKQ5GMM-d5WHF1GddEtjgj8)](https://GayasuddinMohd.io)
 
 
 
