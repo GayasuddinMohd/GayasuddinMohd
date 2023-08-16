@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFYRKlF8L9vtg/profile-displaybackgroundimage-shrink_350_1400/0/1687533726193?e=1697673600&v=beta&t=TcwrfmyqJLf3cS23MHfDyTj_56qvblO_1ZZDI1r-W0E)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQFYRKlF8L9vtg/profile-displaybackgroundimage-shrink_350_1400/0/1687533726193?e=1697673600&v=beta&t=TcwrfmyqJLf3cS23MHfDyTj_56qvblO_1ZZDI1r-W0E)](https://GayasuddinMohd.io)
 
 
 
@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
