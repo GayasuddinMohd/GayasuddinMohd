@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQFYRKlF8L9vtg/profile-displaybackgroundimage-shrink_350_1400/0/1687533726193?e=1697673600&v=beta&t=TcwrfmyqJLf3cS23MHfDyTj_56qvblO_1ZZDI1r-W0E)](https://rishavchanda.io)
 
 
 
