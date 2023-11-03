@@ -1,46 +1,44 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1697673600&v=beta&t=o7E0XB92iIv5rPvO-ZW-EKQ5GMM-d5WHF1GddEtjgj8)](https://GayasuddinMohd.io)
+<!-- Header -->
+# Hi there, I'm [Your Name] 👋
+![Data Analyst](https://example.com/your-banner-image.jpeg)
 
+I'm a data analyst with a passion for transforming data into valuable insights. Welcome to my GitHub profile, where you'll find a collection of my data-driven projects and explorations.
 
+<!-- About Me -->
+## About Me
 
-<h1 align="center">Hi 👋, I'm Gayasuddin</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+- 🎓 B.Tech in Computer Science @IIMT University, Meerut
+- 📊 Data Enthusiast | 📈 Python, SQL, R
+- 💡 Strong believer in the power of data to drive decisions.
 
+<!-- Featured Projects -->
+## Featured Projects
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 📈 [Project 1](https://github.com/yourusername/project1): A brief description of the project.
+- 📊 [Project 2](https://github.com/yourusername/project2): Another exciting project you've worked on.
+- ...
 
+<!-- Skills -->
+## Skills
 
+- **Data Analysis**: Pandas, NumPy, Data Cleaning, EDA
+- **Languages**: Python, SQL, R
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
+- **Statistical Analysis**: Hypothesis Testing, Regression
+- ...
 
+<!-- Let's Connect -->
+## Let's Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 📧 [Email](mailto:youremail@example.com)
+- ...
 
+<!-- GitHub Stats -->
+## GitHub Stats
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayasuddinmohd&label=Profile%20views&color=0e75b6&style=flat" alt="gayasuddinmohd" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science**
-
-- 💬 Ask me about **Python, Pandas**
-
-- 📫 How to reach me **mohdfayaz7017052276@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gayasuddin-6a4a86205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gayasuddin-6a4a86205/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gayasuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gayasuddin" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@mohdfayaz7017052276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mohdfayaz7017052276" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mohdfayaz7017051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohdfayaz7017051" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayasuddinmohd&show_icons=true&locale=en&layout=compact" alt="gayasuddinmohd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayasuddinmohd&show_icons=true&locale=en" alt="gayasuddinmohd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayasuddinmohd&" alt="gayasuddinmohd" /></p>
-
+<!-- Footer -->
+Thanks for visiting my GitHub profile. Feel free to explore my repositories, reach out for collaboration, or just say hello! 🚀
 
