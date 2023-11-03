@@ -25,17 +25,14 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - Skills: Python (Programming Language)
 
 
-<!-- Add more projects as needed -->
-
-
 <!-- Skills -->
 ## Skills
 
-- **Data Analysis**: Pandas, NumPy, Data Cleaning, EDA
-- **Languages**: Python, SQL, R
-- **Data Visualization**: Matplotlib, Seaborn, Power BI
-- **Statistical Analysis**: Hypothesis Testing, Regression
-- ...
+- **Python**
+- **SQL**
+- **Microsoft Power BI**
+- **Microsoft Excel**
+- **Statistics**
 
 <!-- Let's Connect -->
 ## Let's Connect
