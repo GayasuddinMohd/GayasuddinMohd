@@ -8,7 +8,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 ## About Me
 
 - 🎓 B.Tech in Computer Science @IIMT University, Meerut
-- 📊 Data Enthusiast | 📈 Python, SQL, R
+- 📊 Data Enthusiast | 📈 Python, SQL, Power BI, MS Excel, Statistics
 - 💡 Strong believer in the power of data to drive decisions.
 
 <!-- Featured Projects -->
