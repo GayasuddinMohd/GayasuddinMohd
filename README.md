@@ -38,7 +38,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 ## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayasuddin/)
-- 📧 [Email](mohdfayaz7017052276@gmail.com)
+- 📧 [Email](mailto:mohdfayaz7017052276@gmail.com)
 - ...
 
 <!-- GitHub Stats -->
