@@ -1,6 +1,6 @@
 <!-- Header -->
 # Hi there, I'm GAYASUDDIN 👋
-![Data Analyst](https://example.com/your-banner-image.jpeg)
+![Data Analyst](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 I'm a data analyst with a passion for transforming data into valuable insights. Welcome to my GitHub profile, where you'll find a collection of my data-driven projects and explorations.
 
