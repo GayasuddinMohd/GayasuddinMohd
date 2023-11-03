@@ -37,7 +37,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 <!-- Let's Connect -->
 ## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gayasuddin/)
 - 📧 [Email](mailto:youremail@example.com)
 - ...
 
