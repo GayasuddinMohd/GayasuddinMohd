@@ -8,15 +8,18 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 ## About Me
 
 - 🎓 B.Tech in Computer Science @IIMT University, Meerut
-- 📊 Data Enthusiast | 📈 Python, SQL, Power BI, MS Excel, Statistics
+- 📊 Data Enthusiast | Python, SQL, Power BI, MS Excel, Statistics
 - 💡 Strong believer in the power of data to drive decisions.
 
 <!-- Featured Projects -->
-## Featured Projects
+## Projects
 
-- 📈 [Project 1](https://github.com/yourusername/project1): A brief description of the project.
-- 📊 [Project 2](https://github.com/yourusername/project2): Another exciting project you've worked on.
-- ...
+1. **[My](https://github.com/yourusername/project1)**: Description of the first project. You can provide information about what the project is, its purpose, and any key features.
+
+2. **[Name](https://github.com/yourusername/project2)**: Description of the second project. Similar to the first, provide details about the project's objectives and its significance.
+
+<!-- Add more projects as needed -->
+
 
 <!-- Skills -->
 ## Skills
