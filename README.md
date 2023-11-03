@@ -42,11 +42,6 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - 📧 [Email](mailto:mohdfayaz7017052276@gmail.com)
 - 📞 Phone : 7017052276
 
-<!-- GitHub Stats -->
-## GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Footer -->
 Thanks for visiting my GitHub profile. Feel free to explore my repositories, reach out for collaboration, or just say hello! 🚀
 
