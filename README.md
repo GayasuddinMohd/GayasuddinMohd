@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm GAYASUDDIN 👋
 ![Data Analyst](https://example.com/your-banner-image.jpeg)
 
 I'm a data analyst with a passion for transforming data into valuable insights. Welcome to my GitHub profile, where you'll find a collection of my data-driven projects and explorations.
