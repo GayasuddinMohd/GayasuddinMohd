@@ -40,6 +40,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayasuddin/)
 - 📊 [Kaggle](https://www.kaggle.com/gayasuddin)
 - 📧 [Email](mailto:mohdfayaz7017052276@gmail.com)
+- 📞 Phone : 7017052276
 
 <!-- GitHub Stats -->
 ## GitHub Stats
