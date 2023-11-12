@@ -22,7 +22,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 2. **[IPL Data Unveiled : Exploring Cricket's Winning Formulas](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL)** :
 - IPL Data Unveiled is a data-driven exploration of the Indian Premier League, uncovering key insights that influence match outcomes.
 - From CH Gayle's dominance to toss-related statistics, this project exposes the strategies and trends that define IPL success.
-- Skills: Python (Programming Language)
+- Skills used : Python (Programming Language)
 
 
 <!-- Skills -->
