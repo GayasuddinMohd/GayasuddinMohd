@@ -41,6 +41,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayasuddin/)
 - 📊 [Kaggle](https://www.kaggle.com/gayasuddin)
 - 📧 [Email](mailto:mohdfayaz7017052276@gmail.com)
+- 🌐 [StrataScratch](https://platform.stratascratch.com/user/Gayasuddin_Data_Analyst)
 - 📞 Phone : 7017052276
 
 <!-- Footer -->
