@@ -1,7 +1,7 @@
 <!-- Header -->
 # 🌼 Hi there, I'm GAYASUDDIN 🌼
 
-![Image Alt Text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
 
 I'm a data analyst with a passion for transforming data into valuable insights. Welcome to my GitHub profile, where you'll find a collection of my data-driven projects and explorations.
 
