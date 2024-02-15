@@ -14,17 +14,17 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 <!-- Featured Projects -->
 ## 🌼 Projects 🌼
 
-1. **[Global Terrorism Patterns : A Data Analysis Perspective](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Terrorism)** :
+1. **[Global Terrorism Patterns : A Data Analysis Perspective](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Terrorism)** 
 - An in-depth data analysis of global terrorism trends, identifying key insights, including the deadliest year (2014), hotspots, attack methods, and prominent organizations. 
 - This analysis offers a valuable perspective on the evolving landscape of terrorism, aiding security and policy efforts.
 - Skills Used : Python 
 
-2. **[IPL Data Unveiled : Exploring Cricket's Winning Formulas](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL)** :
+2. **[IPL Data Unveiled : Exploring Cricket's Winning Formulas](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL)** 
 - IPL Data Unveiled is a data-driven exploration of the Indian Premier League, uncovering key insights that influence match outcomes.
 - From CH Gayle's dominance to toss-related statistics, this project exposes the strategies and trends that define IPL success.
 - Skills : Python
 
-3. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)** :
+3. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)** 
 - Improving airline profitability by analyzing occupancy rates amid rising costs and industry challenges.
 - Skills : Python, SQL
 
