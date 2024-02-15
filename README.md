@@ -24,9 +24,11 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - From CH Gayle's dominance to toss-related statistics, this project exposes the strategies and trends that define IPL success.
 - Skills : Python
 
-3. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)** 
-- Improving airline profitability by analyzing occupancy rates amid rising costs and industry challenges.
-- Skills : Python, SQL
+3. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)**
+- Analyzed airline performance and revenue data to address profitability challenges amidst regulatory and economic pressures
+- Used Python and SQL to extract, clean, and analyze database data, identifying trends in ticket bookings, revenue, and occupancy rates.
+- Provided actionable insights to optimize flight scheduling, pricing, and operations, aiming to boost occupancy rates and profitability.
+- Skills Used : Python and SQL
 
 <!-- Skills -->
 ## 🌼 Skills 🌼
