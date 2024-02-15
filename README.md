@@ -39,6 +39,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - **Microsoft Power BI**
 - **Microsoft Excel**
 - **Statistics**
+- **Machine Learning**
 
 <!-- Let's Connect -->
 ## 🌼 Let's Connect 🌼
