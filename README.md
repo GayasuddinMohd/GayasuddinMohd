@@ -17,7 +17,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 1. **[Global Terrorism Patterns : A Data Analysis Perspective](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Terrorism)** 
 - An in-depth data analysis of global terrorism trends, identifying key insights, including the deadliest year (2014), hotspots, attack methods, and prominent organizations. 
 - This analysis offers a valuable perspective on the evolving landscape of terrorism, aiding security and policy efforts.
-- Skills Used : Python
+- Skills Used : Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly and Streamlit
   
 2. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)**
 - Analyzed airline performance and revenue data to address profitability challenges amidst regulatory and economic pressures.
