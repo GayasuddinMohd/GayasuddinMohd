@@ -18,7 +18,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - An in-depth data analysis of global terrorism trends, identifying key insights, including the deadliest year (2014), hotspots, attack methods, and prominent organizations. 
 - This analysis offers a valuable perspective on the evolving landscape of terrorism, aiding security and policy efforts.
 - Skills Used : Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly and Streamlit
-- **[Live](- https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app)**
+- [Live](https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app/) 
 - **[Live](https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app/)** 
 - https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app
   
