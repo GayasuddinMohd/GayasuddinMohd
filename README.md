@@ -24,6 +24,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - Used Python and SQL to extract, clean, and analyze database data, identifying trends in ticket bookings, revenue, and occupancy rates.
 - Provided actionable insights to optimize flight scheduling, pricing, and operations, aiming to boost occupancy rates and profitability.
 - Skills Used : Python and SQL
+- https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app
 
 3. **[Vrinda Store Data Analysis](https://github.com/GayasuddinMohd/Vrinda-Store-Data-Analysis)**
 - Conducted data analysis on Vrinda Store's sales data for 2022 to understand customer behavior and enhance sales strategies for 2023.
