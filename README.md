@@ -19,6 +19,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - This analysis offers a valuable perspective on the evolving landscape of terrorism, aiding security and policy efforts.
 - Skills Used : Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly and Streamlit
 - **[Live](- https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app)**
+- **[Live](https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app/)** 
 - https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app
   
 2. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)**
