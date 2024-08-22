@@ -18,14 +18,14 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - An in-depth data analysis of global terrorism trends, identifying key insights, including the deadliest year (2014), hotspots, attack methods, and prominent organizations. 
 - This analysis offers a valuable perspective on the evolving landscape of terrorism, aiding security and policy efforts.
 - Skills Used : Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly and Streamlit
+- https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app
   
 2. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)**
 - Analyzed airline performance and revenue data to address profitability challenges amidst regulatory and economic pressures.
 - Used Python and SQL to extract, clean, and analyze database data, identifying trends in ticket bookings, revenue, and occupancy rates.
 - Provided actionable insights to optimize flight scheduling, pricing, and operations, aiming to boost occupancy rates and profitability.
 - Skills Used : Python and SQL
-- https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app
-
+  
 3. **[Vrinda Store Data Analysis](https://github.com/GayasuddinMohd/Vrinda-Store-Data-Analysis)**
 - Conducted data analysis on Vrinda Store's sales data for 2022 to understand customer behavior and enhance sales strategies for 2023.
 - Utilized Microsoft Excel to analyze sales trends, order status, customer demographics, and channel performance, deriving actionable insights to improve sales performance.
