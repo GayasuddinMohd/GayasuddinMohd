@@ -17,14 +17,14 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 1. **[Global Terrorism Patterns : A Data Analysis Perspective](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Terrorism)** 
 - An in-depth data analysis of global terrorism trends, identifying key insights, including the deadliest year (2014), hotspots, attack methods, and prominent organizations. 
 - This analysis offers a valuable perspective on the evolving landscape of terrorism, aiding security and policy efforts.
-- Skills Used : Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly and Streamlit
+- Skills Used : Python and Streamlit
 - **[Live](https://global-terrorism-patterns-a-data-analysis-perspective-fhyspzyt.streamlit.app/)**
   
 2. **[Airlines Data Analysis](https://github.com/GayasuddinMohd/Airlines-Data-Analysis-)**
 - Analyzed airline performance and revenue data to address profitability challenges amidst regulatory and economic pressures.
 - Used Python and SQL to extract, clean, and analyze database data, identifying trends in ticket bookings, revenue, and occupancy rates.
 - Provided actionable insights to optimize flight scheduling, pricing, and operations, aiming to boost occupancy rates and profitability.
-- Skills Used : Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Streamlit, SQL and SQLite
+- Skills Used : Python, SQL and Streamlit
 - **[Live](https://u43xftqvbcfmptwkp9cayh.streamlit.app/)**
 
   
