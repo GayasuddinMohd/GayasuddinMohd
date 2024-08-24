@@ -48,6 +48,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 <!-- Let's Connect -->
 ## 🌼 Let's Connect 🌼
 
+- 💻 [ Portfolio](https://appportfoliowebsite-yxjsnpkmqewsxza5p38xpu.streamlit.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayasuddin/)
 - 📊 [Kaggle](https://www.kaggle.com/gayasuddin)
 - 📧 [Email](mailto:mohdfayaz7017052276@gmail.com)
