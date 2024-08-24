@@ -24,7 +24,9 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - Analyzed airline performance and revenue data to address profitability challenges amidst regulatory and economic pressures.
 - Used Python and SQL to extract, clean, and analyze database data, identifying trends in ticket bookings, revenue, and occupancy rates.
 - Provided actionable insights to optimize flight scheduling, pricing, and operations, aiming to boost occupancy rates and profitability.
-- Skills Used : Python and SQL
+- Skills Used : Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Streamlit, SQL and SQLite
+- **[Live](https://u43xftqvbcfmptwkp9cayh.streamlit.app/)**
+
   
 3. **[Vrinda Store Data Analysis](https://github.com/GayasuddinMohd/Vrinda-Store-Data-Analysis)**
 - Conducted data analysis on Vrinda Store's sales data for 2022 to understand customer behavior and enhance sales strategies for 2023.
