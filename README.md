@@ -33,6 +33,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - Utilized Microsoft Excel to analyze sales trends, order status, customer demographics, and channel performance, deriving actionable insights to improve sales performance.
 - Identified that women customers aged 30-49, residing in Maharashtra, Karnataka, and Uttar Pradesh, are key contributors to sales, and recommended targeting them with tailored ads and offers through channels like Amazon, Flipkart, and Myntra to boost sales in the following year.
 - Skills Used : MS Excel
+- **[Live](aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8zMDgzNjRkZTZlZDBiZGVjL0VRSVc2SXZRdmdCQnJpY3JvU1JrZERnQmUwcXVydjJnMUZ4d1RXYzhhNi1zakE_ZT1oaW5DTGkmbmF2PU1UVmZlMFEyTWtORE5FWkdMVVl3TTBVdE5EQTVReTA0UXprekxUZzNNamRDUVRZelJrTTJRMzA)**
 
 <!-- Skills -->
 ## 🌼 Skills 🌼
